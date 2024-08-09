@@ -9,6 +9,7 @@ Explore this 15-pin, 2-layer flexible PCB project designed using Altium Designer
 If someone is planning to order a Flex-PCB from JLCPCB, I would recommend creating the design in EasyEDA. The reason is that exporting the information about the different layer stackups and their associated defined areas can be quite challenging, and without official documentation, it can be difficult to achieve this successfully.
 
 JLCPCB Capabilities: https://jlcpcb.com/capabilities/flex-pcb-capabilities
+
 JLCPCB special offer: https://jlcpcb.com/blog/flex-pcb-available-at-jlcpcb-from-special-offer
 
 ##Stackup:
