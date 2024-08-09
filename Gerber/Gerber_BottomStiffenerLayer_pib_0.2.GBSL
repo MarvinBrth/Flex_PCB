@@ -1,0 +1,30 @@
+G04 Layer: BottomStiffenerLayer*
+G04 EasyEDA Pro v2.1.64.d1969c9c.217bcf, 2024-08-01 22:51:48*
+G04 Gerber Generator version 0.3*
+G04 Scale: 100 percent, Rotated: No, Reflected: No*
+G04 Dimensions in millimeters*
+G04 Leading zeros omitted, absolute positions, 3 integers and 5 decimals*
+%FSLAX35Y35*%
+%MOMM*%
+%ADD10C,0.254*%
+G75*
+
+
+G04 Rect Start*
+G36*
+G01X600000Y-400000D02*
+G01X600000Y-2000000D01*
+G01X1280600D01*
+G01Y-400000D01*
+G01X600000D01*
+G37*
+G36*
+G01X9800000Y-400000D02*
+G01X9800000Y-2000000D01*
+G01X10600000D01*
+G01Y-400000D01*
+G01X9800000D01*
+G37*
+G54D10*
+
+M02*

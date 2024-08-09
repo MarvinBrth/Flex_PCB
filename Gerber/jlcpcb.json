@@ -1,0 +1,44 @@
+{
+  "fpcStiffeners": [
+    {
+      "id": "e15",
+      "gerber": "Gerber_BottomStiffenerLayer_pib_0.2.GBSL",
+      "layer": "bottom",
+      "material": "pi",
+      "thickness": "0.2",
+      "path": [
+        [
+          [
+            "R",
+            236.2205,
+            -157.4803,
+            267.9528,
+            629.9213,
+            0,
+            0
+          ]
+        ]
+      ]
+    },
+    {
+      "id": "e16",
+      "gerber": "Gerber_BottomStiffenerLayer_pib_0.2.GBSL",
+      "layer": "bottom",
+      "material": "pi",
+      "thickness": "0.2",
+      "path": [
+        [
+          [
+            "R",
+            3858.2679,
+            -157.4803,
+            314.9606,
+            629.9213,
+            0,
+            0
+          ]
+        ]
+      ]
+    }
+  ]
+}
